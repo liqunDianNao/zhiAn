@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## 致安期货
 
-You can use the [editor on GitHub](https://github.com/liqunDianNao/zhiAn/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](src)
+致安期货是我司专为助力期货投资者提升投资技能，更快更精准的把握行情分析的软件。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+功能简介：
+首页：热门期货行情推荐，精选国内期货市场、股指期货各类行情提供一站式期货行情查询；
+参考：用心打造精选期货财经书籍，推荐期货书籍；
+资讯：期货要闻资讯，轻松供大家选取。
+资讯：把握最新期货资讯，精选财经要闻、热点资讯滚动显示；
+我的：我的订单、我的自选、我的收藏可快速一键直达查看自选行情及订单情况，便于方便了解动向。
 
-### Markdown
+# 帮助
+您在使用过程中遇到任何问题，请通过下方与我们联系，平台会尽快为您解决问题。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/liqunDianNao/zhiAn/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# 联系我们
+公司地址：浦东新区荔城路70- a号1005B室
+公司名称：上海力群电脑网络科技有限公司
+联系电话：021-46859253
