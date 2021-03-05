@@ -1,6 +1,7 @@
 # 致安期货
 
-![Image](src)
+![Image](https://icon.wuruihong.com/files/202103/4zUpTje3/ios/AppIcon.appiconset/icon-76.png)
+
 致安期货是我司专为助力期货投资者提升投资技能，更快更精准的把握行情分析的软件。
 
 功能简介：
